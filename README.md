@@ -5,7 +5,8 @@
 
 - In this course you'll learn how to build a Library System with PyQt5 and Python
   PyQt5 is one of the best frameworks for developing desktop applications that looks awesome 
-  In this course I'll be developing on a my Mac machine, but you should be able to follow along if you're on a Windows or Linux.  I'll show you how to download and install Python and PyQt5
+  In this course I'll be developing on a my Mac machine, but you should be able to follow along if you're on a Windows or Linux. 
+  I'll show you how to download and install Python and PyQt5
   You'll be able to build Desktop Applications  and simple business Applications when you're finished with this course.
 
 - we will build a library system with:
@@ -24,11 +25,11 @@
 
 - DO I NEED TO KNOW PYTHON TO TAKE THIS COURSE?
     - simple python basics!  it's a good idea to learn Python if you want to use PyQt5. But you don't have to know advanced Python to take this course. I'll walk you through everything you need to know.
-      Building desktop applications with PyQt5 is very easy , and the course will make it very fun
+      Building desktop applications with PyQt5 is very easy , and the course will make it very fun.
 
 
 
--What you’ll learn
+-What you’ll learn :-
     - Installing Python
     - Installing PyQt5
     - Installing MySQL Server
